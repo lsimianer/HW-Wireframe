@@ -66,6 +66,14 @@ h1{font-family: Georgia, 'Times New Roman', Times, serif;
 
     }
 
+
+    .img {
+        margin-left: 205px;
+        font-size: 37px;
+        margin-top: -45px;
+        color: #4aaaa5;
+    }
+
     #contact {
         margin-top: 12%;        
     }
@@ -89,6 +97,24 @@ h1{font-family: Georgia, 'Times New Roman', Times, serif;
         font-size: 15px;
         cursor: grabbing;
     }
+
+    #social  {
+        color: #4aaaa5;
+        margin-top: 23px;
+        font-size: 50px;
+        margin-left: 412px;        
+
+    }
+
+/* I couldnt get the link to change colors to the teal used elsewhere,
+    chrome inspector stated "user specified styl sheet. 
+    is this awesome fonts setting overriding my css?
+
+    .fab fa-instagram {
+        color: #4aaaa5;
+    }
+    
+    */
 
     
 
